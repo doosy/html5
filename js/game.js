@@ -1,4 +1,4 @@
-var game = new Phaser.Game(800,600,Phaser.AUTO,'game'); //实例化game
+var game = new Phaser.Game(288,505,Phaser.AUTO,'game'); //实例化game
 game.States = {}; //存放state对象
 
 game.States.boot = function(){
